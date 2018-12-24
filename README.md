@@ -1,4 +1,4 @@
-📝# SCdown
+# SCdown
 SCdown is a PHP based implementation for directly downloading mp3 from soundcloud
 
 ## Prerequisites
