@@ -1,5 +1,5 @@
 # SCdown
-SCdown is a soundcloud downloader based on PHP.SCdown fetch mp3 links for any sound cloud tracks.
+SCdown is a soundcloud downloader based on PHP.SCdown fetches mp3 links for any sound cloud track url.
 
 ## Prerequisites
 * Webserver
