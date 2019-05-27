@@ -1,5 +1,5 @@
 # Soundcloud-downloader
-This project is a soundcloud downloader based on PHP.Then  script fetches mp3 links for any sound cloud track url.
+ A simple soundcloud downloader based on PHP.The script fetches mp3 links for any sound cloud track url.
 
 ## Prerequisites
 * Webserver
