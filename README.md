@@ -5,14 +5,14 @@
 * Webserver
 * PHP
 
-### Usage
+## Usage
 📝 *Initialize the _config.php file with your 32 character soundcloud client-id!* 
 ```
 download.php?url='url_of_soundcloud_track'
 ```
-### Example
+## Example
 ```
 download.php?url=https://soundcloud.com/uppermost/independent
 ```
-### Deployment
-Upload the download.php script to your server and then pass soundcloud url via GET['url'] to download files directly.
+## Deployment
+Upload the download.php script to your server and then pass soundcloud url via GET['url'] to download files directly. It will not change the current tab.
